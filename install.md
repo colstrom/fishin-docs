@@ -1,6 +1,8 @@
-# fishin
-## install
-### Usage
+fishin install
+==============
+
+Usage
+-----
 
 `fishin install <source> <function> [branch]`
 
@@ -8,7 +10,8 @@
 `function` is the path to that function within the repository (.fish is appended automatically).
 `branch` is the branch name to fetch from (default is master).
 
-### Examples
+Examples
+--------
 
 `fishin install colstrom/fishin fishin`
 
